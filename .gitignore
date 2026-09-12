@@ -1,0 +1,19 @@
+# node_modules and dependency lockfiles (none used, keeping it lean)
+node_modules/
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+*.tmp

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0d12"/>
+  <g stroke="#141a24" stroke-width="1">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="320" x2="1200" y2="320"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="480" x2="1200" y2="480"/>
+    <line x1="0" y1="560" x2="1200" y2="560"/>
+    <line x1="100" y1="0" x2="100" y2="630"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="500" y1="0" x2="500" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="700" y1="0" x2="700" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+    <line x1="1100" y1="0" x2="1100" y2="630"/>
+  </g>
+  <circle cx="1050" cy="180" r="220" fill="#6ee787" opacity="0.05"/>
+  <text x="80" y="120" font-family="ui-monospace, Menlo, monospace" font-size="26" fill="#5d6678">~/shubhra — portfolio</text>
+  <text x="80" y="330" font-family="ui-monospace, Menlo, monospace" font-size="68" font-weight="700" fill="#dfe4ec">shubhra_ghosh()</text>
+  <text x="80" y="390" font-family="ui-monospace, Menlo, monospace" font-size="30" fill="#6ee787">software engineer · backend &amp; distributed systems</text>
+  <text x="80" y="450" font-family="ui-monospace, Menlo, monospace" font-size="24" fill="#98a1b0">go · distributed systems · microservices · aws</text>
+  <text x="80" y="540" font-family="ui-monospace, Menlo, monospace" font-size="22" fill="#5d6678">github.com/shubhrakantighosh  ·  linkedin.com/in/shubhrakantighosh</text>
+</svg>
